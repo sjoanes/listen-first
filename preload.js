@@ -12,5 +12,5 @@ window.addEventListener('keydown', function () {
 })
 
 window.addEventListener('keyup', function () {
-	mainWindow.setOpacity(0.9)
+	mainWindow.setOpacity(1)
 })
